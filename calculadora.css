@@ -1,11 +1,11 @@
-/* alicando estilos al elemento body*/
+/* Alicando estilos al elemento body */
 body {
 
     background-color: black;
 
 }
 
-/*Aplicando estilos para la tabla, celdas y titulo de la tabla */
+/* Aplicando estilos para la tabla, celdas y titulo de la tabla */
 table , caption , th , td {
 
     color: white;
@@ -15,7 +15,7 @@ table , caption , th , td {
 
 }
 
-/*Aplicando estilo a los bonotes */
+/* Aplicando estilo a los bonotes */
 button {
 
     width: 75px;

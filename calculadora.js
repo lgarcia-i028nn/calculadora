@@ -6,7 +6,7 @@ let primerNumero , SegundoNumero ,  tipoOperacion , resultado;
 //Definimos una funcion para limpiar la pantalla
 function limpiarPantalla() {
 
-pantalla.value = " ";
+    pantalla.value = " ";
 
 }
 
@@ -64,7 +64,7 @@ function calcular() {
 }
 
 //Definimos una funcion para el porcentaje
-function porcentaje () {
+function porcentaje() {
 
     SegundoNumero = Number(pantalla.value);
     limpiarPantalla();
